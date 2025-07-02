@@ -1,5 +1,5 @@
 # Human-Centered-Machine-Learning
-This a project for the HCML course at UU.
+This is a project for the HCML course at UU titled: **Counterfactual Fairness Analysis for Credit Default**.
 
 ### Abstract
 This project investigates fairness in credit default prediction using an interpretable logistic regression model and counterfactual explanations.
